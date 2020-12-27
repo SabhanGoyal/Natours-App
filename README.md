@@ -9,7 +9,7 @@ The route files are in the route folder.
 
 The model files are in the model folder where we create the userSchema,tourSchema and also querymiddlewares,prehooks,posthooks.
 
-Controller folder controller files which handle the route requests.
+Controller folder has controller files which handle the route requests.
 
 app.js has global middlewares.
 
