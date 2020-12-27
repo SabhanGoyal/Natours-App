@@ -2,7 +2,7 @@ Natours Application was made using Express,MongoDb,Express.
 
 It has two entities user and tour.
 
-User can signup,login,resetPassword,deleteData,updateData
+User can signup,login,resetPassword,deleteData,updateData.
 Tour can be updated,deleted,getAllTours,getTour and many more.
 
 The route files are in the route folder.
