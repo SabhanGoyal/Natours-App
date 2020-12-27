@@ -1,4 +1,4 @@
-Natours Application was made using Express,MongoDb,Express.
+Natours Application was made using Node.js,MongoDb,Express.
 
 It has two entities user and tour.
 
